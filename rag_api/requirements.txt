@@ -1,2 +1,11 @@
 fastapi
 uvicorn
+langchain
+langchain-core
+langchain-text_splitters
+langchain-openai
+langchain-community
+pypdf
+chromadb
+pysqlite3-binary
+python-dotenv
