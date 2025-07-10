@@ -1,0 +1,7 @@
+wikipedia
+wikipedia_sections
+mcp
+langchain
+langgraph
+langchain-openai
+langchain-mcp-adapters
